@@ -7,15 +7,20 @@ using System.Threading.Tasks;
 internal class KlantAanpassen
 {
     public static List<Klant> deLijst = new List<Klant>();
+    public static int i = 1;
+    public static string j;
 
     public static void lijstWeergeven()
     {
         int counting = 0;
         foreach (var item in deLijst)
         {
+            Console.WriteLine(deLijst[counting].nummer);
+            Console.WriteLine(" ");
             Console.WriteLine(deLijst[counting].naam);
             Console.WriteLine(deLijst[counting].leeftijd);
             Console.WriteLine(deLijst[counting].email);
+            Console.WriteLine(" ");
             Console.WriteLine(" ");
             counting++;
         }
@@ -32,8 +37,10 @@ internal class KlantAanpassen
         Console.WriteLine("E-mail van klant: ");
         string email = Console.ReadLine();
         Console.WriteLine(" ");
-        deLijst.Add(new Klant(naam, leeftijd, email));
+        j = Convert.ToString(i);
+        deLijst.Add(new Klant("Klant #" + j, naam, leeftijd, email));
         LijstMenu.laatHLzien = true;
+        i++;
     }
 
     public static void klantAanpassen()

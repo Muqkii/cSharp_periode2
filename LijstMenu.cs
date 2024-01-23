@@ -15,6 +15,7 @@ public class LijstMenu
         Console.WriteLine(menuLijstArray[0]);
         Console.WriteLine(menuLijstArray[1]);
         Console.WriteLine(menuLijstArray[2]);
+        Console.WriteLine(" ");
     }
 
     public static void klantToepassenLijst()
@@ -22,6 +23,7 @@ public class LijstMenu
         Console.WriteLine(menuLijstArray[3]);
         Console.WriteLine(menuLijstArray[4]);
         Console.WriteLine(menuLijstArray[5]);
+        Console.WriteLine(" ");
     }
 
     public static void LaatHoofdLijstZien(bool LHLZ)
