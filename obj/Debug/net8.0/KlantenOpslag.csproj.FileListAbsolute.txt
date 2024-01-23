@@ -1,0 +1,14 @@
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\KlantenOpslag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\KlantenOpslag.AssemblyInfoInputs.cache
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\KlantenOpslag.AssemblyInfo.cs
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\KlantenOpslag.csproj.CoreCompileInputs.cache
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\bin\Debug\net8.0\KlantenOpslag.exe
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\bin\Debug\net8.0\KlantenOpslag.deps.json
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\bin\Debug\net8.0\KlantenOpslag.runtimeconfig.json
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\bin\Debug\net8.0\KlantenOpslag.dll
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\bin\Debug\net8.0\KlantenOpslag.pdb
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\KlantenOpslag.dll
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\refint\KlantenOpslag.dll
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\KlantenOpslag.pdb
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\KlantenOpslag.genruntimeconfig.cache
+C:\Users\aquam\source\repos\GameDevelopment\Periode2\C#testing\KlantenOpslag\KlantenOpslag\obj\Debug\net8.0\ref\KlantenOpslag.dll

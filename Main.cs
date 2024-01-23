@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.Design;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+class Program
+{
+    static void Main()
+    {
+        while (LijstMenu.codeRunning)
+        {
+            LijstMenu.LaatHoofdLijstZien(LijstMenu.laatHLzien);
+            LijstMenu.lijstControls();
+        }
+    }
+}
+
